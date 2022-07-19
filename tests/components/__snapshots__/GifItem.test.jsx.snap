@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre componente GifItem GifItem should match with snapshot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Fuck You Season 4 GIF by Friends"
+      src="https://media2.giphy.com/media/daIJvyatzeg20Iqi12/giphy.gif?cid=97d5ddfc1osd30iu6jr8822y0r3dmpgrx1lqw7gzxgj4u476&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Fuck You Season 4 GIF by Friends
+    </p>
+  </div>
+</div>
+`;
